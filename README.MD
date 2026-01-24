@@ -28,7 +28,9 @@ This repository exists to centralize small but useful scripts that solve real pr
 ```bash
 chmod +x script.sh
 ./script.sh
+```
 
 ### Windows
 ```batch
 ./script.bat
+```
