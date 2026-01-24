@@ -21,7 +21,7 @@ echo "▶ Enabling TUN support for container $CTID"
 if [[ ! -e /dev/net/tun ]]; then
   echo "▶ /dev/net/tun not found on host — loading tun module"
   modprobe tun
-fi
+fit
 
 # Create device node if needed
 mkdir -p /dev/net
