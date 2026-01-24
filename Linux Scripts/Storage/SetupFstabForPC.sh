@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 echo "Setting up FStab..."
 
 # NAS Local IP
